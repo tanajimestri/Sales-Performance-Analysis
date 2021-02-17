@@ -18,3 +18,11 @@ Analysis Tasks Completed -
 5. Add a filter so that the user can select one, more than one, or all years. 
 6. Created a dashboard which presents monthly sales performance by product segment and product category to help client identifying the segments and categories that have met or exceeded their sales targets, as well as those that have not met their sales targets.
  
+![alt_text](https://github.com/tanajimestri/Sales-Performance-Analysis/blob/main/images/tab1.png)
+
+![alt_text](https://github.com/tanajimestri/Sales-Performance-Analysis/blob/main/images/tab2.png)
+
+# Some Insights:
+1.	In the month of November, all the segments performed well (Achieved sales above the target) across all the categories.
+2.	Also, for the December month all the segments performed well except home office segment for category Technology.
+3.	In January, March, June, August and September from Consumer segment the Office Supplies is generating sales above target.
