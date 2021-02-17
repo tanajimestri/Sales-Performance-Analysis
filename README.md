@@ -17,6 +17,8 @@ Analysis Tasks Completed -
 4. Add the year of sales to the view to identify trends and outliers. 
 5. Add a filter so that the user can select one, more than one, or all years. 
 6. Created a dashboard which presents monthly sales performance by product segment and product category to help client identifying the segments and categories that have met or exceeded their sales targets, as well as those that have not met their sales targets.
+
+# [Click to view the Dashboard on Tableau public account](https://public.tableau.com/profile/tanaji.m#!/vizhome/Project2-SalesPerformanceAnalysis_15999945362520/Dashboard1)
  
 ![alt_text](https://github.com/tanajimestri/Sales-Performance-Analysis/blob/main/images/tab1.png)
 
